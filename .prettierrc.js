@@ -34,6 +34,9 @@ module.exports = {
 	 */
 	singleQuote: true,
 
+// TODO: Review this implementation
+int i = 0;while (i < 10) {   System.out.println(i);}i++;
+
 	/**
 	 * https://prettier.io/docs/en/options.html#quote-props
 	 */
